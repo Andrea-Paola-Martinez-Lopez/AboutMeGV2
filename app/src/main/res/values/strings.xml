@@ -1,8 +1,17 @@
 <resources>
-    <string name="bio">Andrea Paola Martinez Lopez
-HOLA, s19120125</string>
+   <string name="app_name">AboutMeGuiada</string>
+    <string name="name">Andy Martinez Lopez</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hola, mi nombre es Andrea Paola, pero me gusta que me digan Andy.
+\n\nEstoy en septimo semestre de la carrera de sistemas computacionales.
+\n\nVivo en yuriria, pero vengo de lunes a sabado a la universidad
+\nMi color favorito es el morado y mi cumpleaños es el 12 de septiembre
+\n\nMe gusta mucho las festividades de agosto a diciembre, es la mejor mitad del año
+\nMi deporte favorito es el basquetbol, pero tambien veo futbol americano, futbol soccer y natacion
+\nMi comida favorita son los tacos, la pizza pero sobretodo los chiles rellenos
+</string>
     <string name="app_name">About Me</string>
-    <string name="name">Giovanni Alejo</string>
+    <string name="name">Andrea Paola</string>
     <string name="yellow_star">Yellow_star</string>
     <string name="what_is_your_nickname">What_is_your_Nickname?</string>
     <string name="done">Done</string>
